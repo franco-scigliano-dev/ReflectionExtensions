@@ -1,0 +1,14 @@
+{
+  "name": "com.fscigliano.reflectionextensions",
+  "version": "1.0.0",
+  "displayName": "Reflection Extensions",
+  "description": "Useful reflection extensions to deal with lists and such",
+  "unity": "2021.3",
+  "keywords": ["tool"],
+  "author": {
+    "name": "Franco Scigliano",
+    "email": "franco.scigliano.dev@gmail.com",
+    "url": "https://github.com/franco-scigliano-dev/ReflectionExtensions"
+  },
+  "dependencies": {}
+}
