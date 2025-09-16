@@ -1,9 +1,7 @@
 {
     "name": "com.fscigliano.reflection-extensions.editor",
     "rootNamespace": "",
-    "references": [
-        "com.fdt.common"
-    ],
+    "references": [],
     "includePlatforms": [
         "Editor"
     ],
